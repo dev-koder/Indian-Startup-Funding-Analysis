@@ -24,11 +24,10 @@ This project answers questions like:
 📁 Indian-Startup-Funding-Analysis/
 │
 ├── 📄 DevKushwaha_240616.ipynb      # Jupyter Notebook
-├── 📄 README.md                     # This File
+├── 📄 README.md                     # Readme File
 ├── 📁 data/
-│      └── startup_funding.csv       # Dataset (if allowed)
-└── 📁 assets/
-       └── images/                   # Plots and charts
+       └── startup_funding.csv       # Dataset 
+
 ```
 
 ---
